@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dmitri
+- 👀 I’m interested in python developmnet
+- 🌱 I’m currently learning python language
+- 📫 How to reach me telegram: idatd19, +375259445123
